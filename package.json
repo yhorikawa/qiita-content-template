@@ -1,0 +1,9 @@
+{
+  "name": "qiita-content",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.3.0"
+  }
+}
